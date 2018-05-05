@@ -1,0 +1,12 @@
+/* 样式重置 */
+a, body, button, caption, dd, div, dl, dt, em, figure, form, h1, h2, h3, h4, h5, h6, html, i, img, input, label, li, ol, p, span, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul{margin:0;padding:0;}
+a{text-decoration:none; color: inherit;}
+h1, h2, h3, h4, h5, h6,b,strong{font-weight:normal;}
+i,em{font-style:normal;}
+li{list-style:none;}
+img{border:0; display:block;}
+a,input{outline:0;}
+.clear:after{content:"."; display:block; clear:both;height:0; visibility:hidden;}
+.clear{zoom:1;}
+/* 默认字体 */
+body {font:  14px/1.5 "PingFang SC","Lantinghei SC","Microsoft YaHei","HanHei SC","Helvetica Neue","Open Sans",Arial,"Hiragino Sans GB","微软雅黑",STHeiti,"WenQuanYi Micro Hei",SimSun,sans-serif}
